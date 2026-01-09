@@ -1,0 +1,19 @@
+https://www.kaggle.com/datasets/yuanchunhong/athlete-overtraining-prediction-dataset
+
+https://www.kaggle.com/datasets/arashnic/fitbit	moze byc ciekawe
+
+https://www.kaggle.com/datasets/tejaswinimukesh/hevy-app-workout-dataset-from-dumbbells-to-data?resource=download
+
+
+https://www.kaggle.com/datasets/niharika41298/gym-exercise-data/data	to co wiliano zrobil opcjonalne
+
+https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-datase	ile kcal, jak dlugo trening, bpm
+
+https://www.kaggle.com/datasets/willianoliveiragibin/gym-exercises    cwiczenie ktory miesien pracuje
+
+- wyliczanie RPE za pomoca intensywnosci ale jeszcze kwestia trudnosci cwiczen 
+- moze wplyw spalonych kalori w treningu silowym ~ intensywnosc
+- wiedzac jakie ma bmp, itp mozna policzyc jaka intensywnosc byla
+
+
+-potrzebuje wiedziec ile
